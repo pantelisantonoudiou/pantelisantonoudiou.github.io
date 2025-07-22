@@ -1,0 +1,67 @@
+/* Entire entry is clickable */
+.archive__item-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  margin-bottom: 2rem; /* separation between research items */
+}
+
+/* Outer container styling */
+.archive__item {
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+  padding: 1rem 1rem;    /* some internal spacing */
+  background: #fff;
+  border: 1px solid #e0e0e0;
+}
+
+/* Hover effect on the entire card */
+.archive__item:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* Horizontal layout for image + text */
+.archive__item-content {
+  display: flex;
+  align-items: flex-start;   /* top-align the image and text */
+  gap: 1.5rem;               /* space between image and text */
+}
+
+/* Teaser image: fixed size for consistent alignment */
+.archive__item-teaser img {
+  width: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-top: 0.2rem;        /* small gap so it doesn't crash into the top edge */
+}
+
+/* Expand text block to fill remaining width */
+.archive__item-text {
+  flex: 1;    /* fills leftover space */
+}
+
+/* Title styling */
+.archive__item-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 0.3rem;
+  line-height: 1.3;
+}
+
+/* Excerpt styling */
+.archive__item-excerpt {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.btn--bsky {
+  background-color: #0085ff;
+  color: #fff;
+}
+
+body {
+  font-size: 20px;
+  line-height: 1.6;
+}

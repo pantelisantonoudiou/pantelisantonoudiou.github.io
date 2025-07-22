@@ -16,8 +16,7 @@
 title: Pantelis Antonoudiou
 email: pantelis.antonoudiou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Neuroscientist specializing in brain signal analysis and machine learning for neural event detection.
-twitter_username: username
+ Research Scientist, Neuroscience, Data Science, ML.
 github_username: pantelisantonoudiou
 minimal_mistakes_skin: default
 search: true
@@ -30,9 +29,17 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
+
+# define collections
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
+  software:
+    output: true
+    permalink: /software/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,34 +63,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Pantelis Antonoudiou, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Research Scientist: Neuroscience, Data Science, Machine Learning."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/pantelisantonoudiou"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=oZIowDcAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pantelis-antonoudiou"
+
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -111,3 +106,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+sass:
+  style: compressed
