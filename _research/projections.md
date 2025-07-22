@@ -14,7 +14,7 @@ date: 2024-07-23
 </a>
 
 **Summary**  
-Here we show that past experiences can reshape the responsiveness of projection-specific neurons to influence future emotional behaviors. Specifically, previous positive or negative experiences alter the activity of specific BLA neuron populations projecting to different brain regions, thereby influencing emotional processing and related behaviors like avoidance and helplessness.
+Here we show that past experiences can reshape the function of projection-specific neurons to influence future emotional behaviors. Specifically, previous positive or negative experiences alter the activity of specific BLA neuron populations projecting to different brain regions, thereby influencing emotional processing and related behaviors like avoidance and helplessness.
 
 **Key findings:**
 - Previous positive (enriched environment) or negative (chronic unpredictable stress) experiences lead to distinct changes in the activity of BLA neurons that project to either the nucleus accumbens core (NaCC) or the bed nucleus of the stria terminalis (BNST).

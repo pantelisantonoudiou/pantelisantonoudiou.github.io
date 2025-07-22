@@ -34,8 +34,8 @@ Instead of rebuilding analysis tools for every project, we created SAKE to serve
 
 ## 🔧 Tech Stack
 
-- Python 3
-- NumPy, pandas, matplotlib, seaborn, PyQt
+- Python 3.
+- NumPy, pandas, matplotlib, seaborn, PyQt.
 
 ---
 

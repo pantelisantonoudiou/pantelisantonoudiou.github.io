@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Ongoing Projects"
     url: /ongoing_projects/
   - title: "Software"

@@ -17,11 +17,10 @@ date: 2025-04-01
 Here, we explore how altered circuit function in the **basolateral amygdala (BLA)** contributes to impaired valence processing and affective dysfunction in mental illnesses.
 
 **Key Highlights**
-- Redefining valence computations and affective processing using neural circuit computations.
-- BLA is a central hub of valence computations and affective processing.
-- Mechanism of how biased information routing promotes **negative affective states**.
-- Highlighting links between oscillatory dynamics, mental disorders, and altered affective states.
-
+- Redefined valence computations and affective processing through the lens of neural circuit dynamics.  
+- Highlighted the role of the basolateral amygdala (BLA) as a central hub for valence computation and affective processing across species.  
+- Proposed a mechanism by which biased information routing promotes **negative affective states**.  
+- Investigated the relationship between oscillatory dynamics, mental disorders, and altered affective states.
 
 **Authors:**  
 Pantelis Antonoudiou, Eric Teboul, Kenneth A. Amaya, Bradly T. Stone, Kaitlyn E. Dorst, Jamie L. Maguire

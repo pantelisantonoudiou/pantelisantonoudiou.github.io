@@ -40,7 +40,8 @@ We tested SeizyML on extensive EEG data from chronically epileptic mice. The **G
 
 ## 🔧 Tech Stack
 
-- Python, scikit-learn, NumPy, matplotlib.
+- Python 3.
+- scikit-learn, NumPy, matplotlib.
 
 ---
 
