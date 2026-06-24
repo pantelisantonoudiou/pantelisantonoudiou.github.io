@@ -7,7 +7,6 @@ entries_layout: list
 author_profile: true
 ---
 
-Below is a list of selected open-source tools that I have developed or contributed to.
-Click any item below to learn more.
+Selected open-source tools for physiological signal analysis, machine learning, and scientific workflows. These tools were developed to improve reproducibility, reduce manual effort, and make complex analyses more accessible to researchers.
 
 <hr>

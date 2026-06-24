@@ -1,6 +1,6 @@
 ---
 title: "SeizyML"
-excerpt: "An open-source seizure detection tool using interpretable ML models."
+excerpt: "An interpretable machine learning framework for semi-automated seizure detection and validation."
 layout: single
 author_profile: true
 date: 2025-01-15

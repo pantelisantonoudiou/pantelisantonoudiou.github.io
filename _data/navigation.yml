@@ -1,7 +1,7 @@
 main:
-  - title: "Ongoing Projects"
-    url: /ongoing_projects/
+  - title: "Projects"
+    url: /projects/
+  - title: "Research"
+    url: /research/  
   - title: "Software"
     url: /software/
-  - title: "Research"
-    url: /research/

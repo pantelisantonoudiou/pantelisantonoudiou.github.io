@@ -16,7 +16,7 @@
 title: Pantelis Antonoudiou
 email: pantelis.antonoudiou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Research Scientist, Neuroscience, Data Science, ML.
+  Neuroscience, machine learning, and AI systems.
 github_username: pantelisantonoudiou
 minimal_mistakes_skin: default
 search: true
@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Pantelis Antonoudiou, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Research Scientist: Neuroscience, Data Science, Machine Learning."
+  bio    : " Neuroscience, Machine Learning, and AI systems."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

@@ -13,7 +13,7 @@ author_profile: true
 
 ## 🧠 What is SAKE?
 
-**SAKE** is a Python-based GUI for organizing, processing, and analyzing EEG/LFP recordings from Labchart (ADInstruments).
+**SAKE** is an open-source platform for organizing, processing, and analyzing large-scale electrophysiology recordings.
 
 SAKE provides a structured data pipeline, helping researchers organize, curate, and analyze large volumes of EEG data quickly and reproducibly.
 
